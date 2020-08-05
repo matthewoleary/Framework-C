@@ -1,0 +1,11 @@
+framework module HelloPrinter {
+  umbrella header "HelloPrinter.h"
+
+  export *
+  module * { export * }
+}
+
+module HelloPrinter.Swift {
+    header "HelloPrinter-Swift.h"
+    requires objc
+}
