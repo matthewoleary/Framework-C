@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/HelloPrinter.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		xy1pfsaGIfMmQfT7JRZGpCB7ZYQ=
+		fp2wLhlSTay7AP97EvZqNhSM9gw=
 		</data>
 		<key>Modules/HelloPrinter.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		xy1pfsaGIfMmQfT7JRZGpCB7ZYQ=
+		fp2wLhlSTay7AP97EvZqNhSM9gw=
 		</data>
 		<key>Modules/HelloPrinter.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/HelloPrinter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+ryWkgiHTNVcIQgfEBtASUC5Wig=
+		Ek9qgNj35zOsG+IyO1NJECmCQ7A=
 		</data>
 		<key>Modules/HelloPrinter.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/HelloPrinter.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		+ryWkgiHTNVcIQgfEBtASUC5Wig=
+		Ek9qgNj35zOsG+IyO1NJECmCQ7A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,14 +65,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kcGeUoSYCPnEjxTA16suTHicV7teweLTfpwiK/qoh2Q=
+			7G6sWwRR4XzUG2Y7MiFJxDJE+ed6EYqP+HMVyA2j1GI=
 			</data>
 		</dict>
 		<key>Modules/HelloPrinter.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kcGeUoSYCPnEjxTA16suTHicV7teweLTfpwiK/qoh2Q=
+			7G6sWwRR4XzUG2Y7MiFJxDJE+ed6EYqP+HMVyA2j1GI=
 			</data>
 		</dict>
 		<key>Modules/HelloPrinter.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -86,7 +86,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pYoREYPOE36l6ffXu+FhrsoAJf95aRr8V37WclglfJY=
+			YDV1dnV8aFQCCyjju08ClTBV7wbKbjV1icabcWj7HXI=
 			</data>
 		</dict>
 		<key>Modules/HelloPrinter.swiftmodule/x86_64.swiftdoc</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pYoREYPOE36l6ffXu+FhrsoAJf95aRr8V37WclglfJY=
+			YDV1dnV8aFQCCyjju08ClTBV7wbKbjV1icabcWj7HXI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
