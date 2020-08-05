@@ -1,2 +1,2 @@
 # Framework-C
-The framework which will be a dependency of Framework-B
+The framework which will be a dependency of Framework-A
