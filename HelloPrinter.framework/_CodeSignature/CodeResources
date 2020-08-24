@@ -10,35 +10,35 @@
 		</data>
 		<key>Headers/HelloPrinter.h</key>
 		<data>
-		o0lluzI/JGy2oz42XqW78vNg9Yw=
+		t2eDmV0KWuzQMvad2lAffvXf5Us=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		oK1/Hrp7ZjFedXQprD+7iI8fvEk=
+		OJZvWMOoAI7COgK0L/3gb/7W3+Y=
 		</data>
 		<key>Modules/HelloPrinter.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		fp2wLhlSTay7AP97EvZqNhSM9gw=
+		Y5Sq5AYDPTQZfZ5NwLnVYGmwR/c=
 		</data>
 		<key>Modules/HelloPrinter.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		fp2wLhlSTay7AP97EvZqNhSM9gw=
+		Y5Sq5AYDPTQZfZ5NwLnVYGmwR/c=
 		</data>
 		<key>Modules/HelloPrinter.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		PpfLP4H0flNDzE/toFevyn1RjXk=
+		sjb3UjNmHfbNbF0/XVWetsENoA8=
 		</data>
 		<key>Modules/HelloPrinter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Ek9qgNj35zOsG+IyO1NJECmCQ7A=
+		7Mvxo9kHtUAUSA7K2ZP+OX0wbGs=
 		</data>
 		<key>Modules/HelloPrinter.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		PpfLP4H0flNDzE/toFevyn1RjXk=
+		sjb3UjNmHfbNbF0/XVWetsENoA8=
 		</data>
 		<key>Modules/HelloPrinter.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		Ek9qgNj35zOsG+IyO1NJECmCQ7A=
+		7Mvxo9kHtUAUSA7K2ZP+OX0wbGs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,49 +58,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pWxjzpW3BFukuOBfhHIrPNwSnj4Q6oDzD70s0zk51TA=
+			yk/Nf0GDEfkXmrG4sL58ztppgWwFX+FuMS4JVMg+jZA=
 			</data>
 		</dict>
 		<key>Modules/HelloPrinter.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7G6sWwRR4XzUG2Y7MiFJxDJE+ed6EYqP+HMVyA2j1GI=
+			8cQId6tlIHzT0zuzMNF+5tfGGDLbVmtrv3Uwn9vVxO8=
 			</data>
 		</dict>
 		<key>Modules/HelloPrinter.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7G6sWwRR4XzUG2Y7MiFJxDJE+ed6EYqP+HMVyA2j1GI=
+			8cQId6tlIHzT0zuzMNF+5tfGGDLbVmtrv3Uwn9vVxO8=
 			</data>
 		</dict>
 		<key>Modules/HelloPrinter.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yh5gzjoCZ/AZyYwkh74X45CzDQi9QF8BZpTsQno7+Jg=
+			2VT2Am848tqnI1bqbEpRObe0PBmFULa37MEahd0Gwow=
 			</data>
 		</dict>
 		<key>Modules/HelloPrinter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YDV1dnV8aFQCCyjju08ClTBV7wbKbjV1icabcWj7HXI=
+			TyjxDETN2jtyACjTMz0JvFiA4/njF+HkkKu7mjiPExU=
 			</data>
 		</dict>
 		<key>Modules/HelloPrinter.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yh5gzjoCZ/AZyYwkh74X45CzDQi9QF8BZpTsQno7+Jg=
+			2VT2Am848tqnI1bqbEpRObe0PBmFULa37MEahd0Gwow=
 			</data>
 		</dict>
 		<key>Modules/HelloPrinter.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YDV1dnV8aFQCCyjju08ClTBV7wbKbjV1icabcWj7HXI=
+			TyjxDETN2jtyACjTMz0JvFiA4/njF+HkkKu7mjiPExU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
